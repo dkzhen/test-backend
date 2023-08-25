@@ -1,6 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   env: {
+    API_KEY: "AIzaSyD5GvJvNuzGSsA0BixK-8F4a86Lc89wIsA",
+    AUTH_DOMAIN: "zhen-702f1.firebaseapp.com",
+    PROJECT_ID: "zhen-702f1",
+    STORAGE_BUCKET: "zhen-702f1.appspot.com",
+    MESSAGING_SENDER_ID: "277503513519",
+    APP_ID: "1:277503513519:web:00388e161340280553155a",
+    MEASUREMENT_ID: "G-5ZEXJT1KC6",
     TYPE: "service_account",
     PROJECT_ID: "earthquake-41704",
     PRIVATE_KEY_ID: "3f4c010e28e42cfaf818e64c2f800dfa049a76ab",
